@@ -1,0 +1,21 @@
+Three different behaviors that you made:
+1. Cars on the perimeter move constantly in loop, never overlap, see BackGroundCar0*
+2. Carousel and roundabout spin continuously, swing swings, see Carousel-0*
+3. Copter flies in circle looking forward continuously, see Copter*
+
+One behavior that is not simple:
+Not simple: GetawayCar*, Heist Scene Loop:
+    -Explosion at bank garage door
+    -Getaway Car breaks out of bank through explosion
+    -Police Cars turn on police lights, begin chase
+    -Getaway Car drifts in circle which creates smoke around base of car
+    -Police Cars follow getaway car
+    -Getaway Car and Police Cars disappear off map
+    -Loop resets
+
+Animated Articulated Figure:
+Articulated: see DumpTruck-0*, truck bed lifts up and down continuously
+
+Other Behaviors that you made: (backup in case something above doesn't count)
+- see Bulldozer-0*, front moves up and down continuously
+- see Crane-0*, crane rotates and cable moves back and forth continuously

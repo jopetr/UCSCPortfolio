@@ -1,0 +1,60 @@
+List all attributions here, this include "self-attributions":
+
+Textures
+
+(All textures found with Creative Commons Licenses filter on google images)
+
+Skybox: https://upload.wikimedia.org/wikipedia/commons/3/3e/Cologne_centre_with_the_Cathedral_at_night_%E2%80%93_360%C2%B0_panorama_from_high_up_%E2%80%93_July_2021.jpg
+
+Grass:
+https://www.tilingtextures.com/wp-content/uploads/2017/03/0015-512x512.jpg
+
+Asphalt/Street:
+https://www.piqsels.com/en/public-domain-photo-ijeiw
+
+Dirt:
+https://www.texturepalace.com/91-hq-ground-texture/
+
+Sidewalk/Concrete:
+https://pxhere.com/en/photo/969490
+
+Bush: 
+https://pxhere.com/en/photo/591998
+
+Bank front:
+https://locators.bankofamerica.com/tx/sanantonio/financial-centers-san-antonio-16769.html
+
+Bank Garage:
+https://authoritydockanddoor.com/advantages-of-commercial-overhead-doors/
+
+7-11 front: https://www.cstoreproductsonline.com/services/7-eleven-unlocks-imagination-innovative-products#page=0
+
+Gray concrete (Used for buildings): https://pixabay.com/photos/concrete-texture-wall-cement-4921579/
+
+Green roof: https://www.istockphoto.com/photos/green-sheet-metal-roof-texture
+
+Beige brick: https://www.rawpixel.com/search/white%20brick%20wall%20texture?page=1&sort=curated
+
+McDonald’s front: https://commons.wikimedia.org/wikiFile:HK_Central_night_%E7%9A%87%E5%90%8E%E5%A4%A7%E9%81%93%E4%B8%AD_Queen%27s_Road_McDonalds_restaurant_Sept-2010.JPG
+
+Red roof: https://id.pinterest.com/mhdyt99/atap/
+
+Blockbuster front: https://www.mediaplaynews.com/pandemic-challenges-last-standing-blockbuster-video-store/
+
+Blue roof: https://pxhere.com/en/photo/1022813
+
+Apartment front: https://pxhere.com/en/photo/1327130
+
+Black roof: https://www.lencobuffalo.com/product-p/rlge.htm
+
+KFC front: http://www.threemetshopfitters.co.uk/case_study.aspx?csid=70
+
+Models
+
+Carousel Geometry, Roundabout, Swing, Crane, and Excavator:
+all obtained from provided models from previous workbooks.
+
+Police Station:
+https://clara.io/view/cdb8f664-d176-46c4-839b-2039db2f882f#
+
+(Anything not attributed above was made by me)

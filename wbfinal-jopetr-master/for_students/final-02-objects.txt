@@ -1,0 +1,29 @@
+(Required) Two kinds of objects created for this assignment:
+1. Bank* - made with triangles and UVs with textures obtained from web (see Attributions)
+2. StreetBlock* - made with triangles and UVs with textures obtained from web (see Attributions), palm trees were made by me
+
+(Required) Five other kinds of objects that you created (possibly in previous assignments):
+3. Store1* - made with triangles and UVs with textures obtained from web (see Attributions)
+4. Resteraunt1* - made with triangles and UVs with textures obtained from web (see Attributions)
+5. Bulldozer-0* - made with colored boxes
+6. DumpTruck-0* - made with colored boxes
+7. ContructionSite* - made with boxes, base has dirt text from web (see Attributions) others have simple colors
+
+(Optional) Backup Objects (more objects that you created, in case the ones above don't count):
+- CenterBlock* - base made with concrete texure obtained from web (see Attributions), sculpture made from torus knot with environment map
+- StationaryCar0* - made with triangles and UVs with textures I made, modified to have a variety of colors from previous workbook with some design changes
+- Copter* - made with a variety of primitive shapes
+
+At least on of each type of object:
+Building/structure: ApartmentBuilding* - made with triangles and UVs with textures obtained from web (see Attributions)
+Vehicle: GetawayCar* - made with triangles and UVs with textures I made, modified to have a variety of colors from previous workbook with some design changes
+Natural Element: PalmTree* - made with cones and cylinders
+
+Object loaded from a model file:
+Model: PoliceStation* - Obtained from the web (see Attributions) as obj and mtl files, added a police sign with a texture I made using a box
+
+An object with a shader that you wrote:
+ShaderObj: Tent* - A cone on top of a cylinder with my custome shader material
+
+Other Objects that you would like to note:
+GetawayCar*, GetawayCar's drift smoke and explosion out of bank, CentralBlock*

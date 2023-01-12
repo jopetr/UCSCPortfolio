@@ -1,0 +1,10 @@
+Advanced Thing:
+
+2. Complex Behavior, GetawayCar*, car's loop events:
+    -starts inside bank
+    -explosion occurs allowing car to escape bank
+    -makes a left turn, approaches center block
+    -drifts in a circle to avoid police cars that begin to chase it
+    -ends drift, goes forward until disappearing off the map
+
+17. Dynamic Environment Map: CenterBlock*, torus knot sculpture reflects surroundings with cube camera that updates the object's environment map every frame.

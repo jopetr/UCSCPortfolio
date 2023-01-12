@@ -1,0 +1,1 @@
+My town's theme is Grand Theft Auto, my favorite video game. The game revolves around planning and engaging in heists and one of my favorite aspects of this game is the cars that you can buy and customize with money obtained from heists. Thus, I decided to add in a loop in which a car escapes after a bank heist and is chased by two police cars.
