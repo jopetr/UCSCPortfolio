@@ -1,1 +1,61 @@
-My town's theme is Grand Theft Auto, my favorite video game. The game revolves around planning and engaging in heists and one of my favorite aspects of this game is the cars that you can buy and customize with money obtained from heists. Thus, I decided to add in a loop in which a car escapes after a bank heist and is chased by two police cars.
+Hello, this is Samaritan
+0:           
+1:           
+2:           
+3:           
+4:           
+   A B C D E
+b moved at C0
+0:     b     
+1:           
+2:           
+3:           
+4:           
+   A B C D E
+r's turn
+Move (e.g. B3): A4
+0:     b     
+1:           
+2:           
+3:           
+4: r         
+   A B C D E
+b moved at A0
+0: b   b     
+1:           
+2:           
+3:           
+4: r         
+   A B C D E
+r's turn
+Move (e.g. B3): B4
+0: b   b     
+1:           
+2:           
+3:           
+4: r r       
+   A B C D E
+b moved at B0
+0: b b b     
+1:           
+2:           
+3:           
+4: r r       
+   A B C D E
+r's turn
+Move (e.g. B3): B3
+0: b b b     
+1:           
+2:           
+3:   r       
+4: r r       
+   A B C D E
+b moved at D0
+0: b b b b   
+1:           
+2:           
+3:   r       
+4: r r       
+   A B C D E
+AI wins! Game over.
+
